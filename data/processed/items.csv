@@ -1,0 +1,157 @@
+item,category,count,net_sales,is_tagged_popular,is_tagged_new,item_clean,category_clean,avg_realized_price,sales_rank,cum_sales_share
+*POPULAR* Brown Sugar Milk Tea w/ Cream,Brown Sugar Series,224,1660.74,True,False,Brown Sugar Milk Tea w/ Cream,Brown Sugar Series,7.414017857142857,1,0.0633697050729648
+*POPULAR* Thai Milk Tea,Milk Tea,184,1050.34,True,False,Thai Milk Tea,Milk Tea,5.7083695652173905,2,0.1034480653378695
+Strawberry Matcha Latte,Matcha/Latte Collection,166,1050.14,False,False,Strawberry Matcha Latte,Matcha/Latte Collection,6.3261445783132535,3,0.14351879410054352
+*POPULAR* Assam Black Milk Tea,Milk Tea,168,923.37,True,False,Assam Black Milk Tea,Milk Tea,5.49625,4,0.1787522951742959
+*POPULAR* Pandan Waffle,SNACKS & ICE CREAM,161,650.2,True,False,Pandan Waffle,SNACKS & ICE CREAM,4.038509316770186,5,0.2035623089262629
+Mango Summer,Fruit Series,93,642.79,False,False,Mango Summer,Fruit Series,6.911720430107526,6,0.22808957552058293
+*POPULAR* Creme Brulee,Creme Brulee Series,73,574.59,True,False,Creme Brulee,Creme Brulee Series,7.87109589041096,7,0.2500144998542383
+*POPULAR* Strawberry Banana Smoothie,Real Fruit Smoothies,80,522.91,True,False,Strawberry Banana Smoothie,Real Fruit Smoothies,6.536375,8,0.26996744401148387
+*POPULAR* Mango Smoothie,Real Fruit Smoothies,75,492.96,True,False,Mango Smoothie,Real Fruit Smoothies,6.5728,9,0.2887775707096839
+*NEW* Mango Ice Cream,*NEW* Viral Mango Ice Cream,97,489.0,False,True,Mango Ice Cream,Viral Mango Ice Cream,5.041237113402062,10,0.30743659366371634
+*POPULAR* Vietnamese Drip Coffee,Coffee Series,59,432.75,True,False,Vietnamese Drip Coffee,Coffee Series,7.334745762711864,11,0.3239492566153677
+Taro Black Milk Tea,Milk Tea,72,418.0,False,False,Taro Black Milk Tea,Milk Tea,5.805555555555555,12,0.33989909627750586
+*POPULAR* Brown Sugar Matcha w/ Cream,Brown Sugar Series,59,413.51,True,False,Brown Sugar Matcha w/ Cream,Brown Sugar Series,7.00864406779661,13,0.35567760871456505
+*POPULAR* Ube Taro Creme Brulee,Creme Brulee Series,52,402.03,True,False,Ube Taro Creme Brulee,Creme Brulee Series,7.731346153846153,14,0.3710180729235828
+*POPULAR* Brown Sugar Okinawa Milk w/Cream,Brown Sugar Series,53,388.91,True,False,Brown Sugar Okinawa Milk w/Cream,Brown Sugar Series,7.337924528301888,15,0.38585791058626734
+Strawberry Milk Tea,Milk Tea,62,373.01,False,False,Strawberry Milk Tea,Milk Tea,6.0162903225806454,16,0.4000910438216122
+Strawberry Lemonade,Fruit Series,56,367.76,False,False,Strawberry Lemonade,Fruit Series,6.567142857142857,17,0.41412385012340147
+Mango Matcha Latte,Matcha/Latte Collection,57,365.25,False,False,Mango Matcha Latte,Matcha/Latte Collection,6.407894736842105,18,0.42806088107219564
+*POPULAR* Oreo Smoothie,Real Fruit Smoothies,55,365.07,True,False,Oreo Smoothie,Real Fruit Smoothies,6.637636363636363,19,0.4419910436689821
+Tiger Creme Brulee (Thai Tea),Creme Brulee Series,45,341.76,False,False,Tiger Creme Brulee (Thai Tea),Creme Brulee Series,7.594666666666667,20,0.455031754680782
+Brown Sugar Milk w/ Cream (No Caffeine),Brown Sugar Series,47,335.93,False,False,Brown Sugar Milk w/ Cream (No Caffeine),Brown Sugar Series,7.147446808510638,21,0.4678500074025573
+Matcha Creme Brulee,Creme Brulee Series,40,297.01,False,False,Matcha Creme Brulee,Creme Brulee Series,7.42525,22,0.4791831697902406
+Hot Chocolate Christmas Special,Christmas Specials,58,295.25,False,False,Hot Chocolate Christmas Special,Christmas Specials,5.0905172413793105,23,0.49044917495829393
+Pink Dragon - Dragon Fruit Lemonade,Fruit Series,45,292.9,False,False,Pink Dragon - Dragon Fruit Lemonade,Fruit Series,6.5088888888888885,24,0.5016255099751367
+*POPULAR* Green Milk Tea,Milk Tea,50,287.16,True,False,Green Milk Tea,Milk Tea,5.743200000000001,25,0.5125828208779586
+Oreo Brulee,Christmas Specials,38,284.5,False,False,Oreo Brulee,Christmas Specials,7.4868421052631575,26,0.5234386328011125
+Strawberry Smoothie,Real Fruit Smoothies,41,273.51,False,False,Strawberry Smoothie,Real Fruit Smoothies,6.6709756097560975,27,0.53387509367669
+Mango Milk Tea,Milk Tea,45,268.45,False,False,Mango Milk Tea,Milk Tea,5.9655555555555555,28,0.5441184775458311
+Ube Taro Matcha Latte,Matcha/Latte Collection,42,267.72,False,False,Ube Taro Matcha Latte,Matcha/Latte Collection,6.3742857142857146,29,0.5543340064318302
+Passion Fruit Mixed Juice,Fruit Series,40,262.11,False,False,Passion Fruit Mixed Juice,Fruit Series,6.5527500000000005,30,0.5643354716802584
+Brown Sugar Coffee w/ Cream,Brown Sugar Series,35,256.88,False,False,Brown Sugar Coffee w/ Cream,Brown Sugar Series,7.339428571428571,31,0.5741373731453543
+Coffee Creme Brulee,Creme Brulee Series,33,250.76,False,False,Coffee Creme Brulee,Creme Brulee Series,7.598787878787879,32,0.583705750642191
+Matcha Brulee,Christmas Specials,34,250.15,False,False,Matcha Brulee,Christmas Specials,7.357352941176471,33,0.5932508520572242
+Okinawa Creme Brulee,Creme Brulee Series,31,242.68,False,False,Okinawa Creme Brulee,Creme Brulee Series,7.828387096774194,34,0.6025109168639411
+Taro Milk,Milk (Dairy Free),38,242.07,False,False,Taro Milk,Milk (Dairy Free),6.370263157894737,35,0.6117477055888544
+Strawberry Brulee,Christmas Specials,31,235.5,False,False,Strawberry Brulee,Christmas Specials,7.596774193548387,36,0.6207337994654897
+Mango Slushy,Slushy,38,232.12,False,False,Mango Slushy,Slushy,6.108421052631579,37,0.6295909209544263
+Strawberry Summer,Fruit Series,34,229.15,False,False,Strawberry Summer,Fruit Series,6.739705882352942,38,0.6383347146352372
+Matcha Green Milk Tea,Matcha/Latte Collection,33,224.52,False,False,Matcha Green Milk Tea,Matcha/Latte Collection,6.803636363636364,39,0.6469018390394077
+"*POPULAR* POG - (passionfruit, orange, guava)",Guava Series,32,224.02,True,False,"POG - (passionfruit, orange, guava)",Guava Series,7.000625,40,0.6554498846880015
+Taro Smoothie,Real Fruit Smoothies,34,218.51,False,False,Taro Smoothie,Real Fruit Smoothies,6.426764705882353,41,0.6637876824501396
+Blue Raspberry Slushy,Slushy,38,215.78,False,False,Blue Raspberry Slushy,Slushy,5.678421052631579,42,0.672021310206829
+*PROMO* Matcha Latte,Matcha/Latte Collection,33,213.72,False,False,Matcha Latte,Matcha/Latte Collection,6.4763636363636365,43,0.6801763334905423
+*PROMO* Rose Matcha Latte,*PROMO* Matcha/Latte Collection,31,203.75,False,False,Rose Matcha Latte,Matcha/Latte Collection,6.57258064516129,44,0.6879509263880559
+Passion Fruit Tea,Premium Tea,30,199.1,False,False,Passion Fruit Tea,Premium Tea,6.636666666666667,45,0.6955480868587058
+Snow White BPT (Lychee Juice),Butterfly Tea,32,190.53,False,False,Snow White BPT (Lychee Juice),Butterfly Tea,5.9540625,46,0.7028182374587708
+*NEW* THAI TEA VIETNAMESE COFFEE,Coffee Series,26,182.93,False,True,THAI TEA VIETNAMESE COFFEE,Coffee Series,7.035769230769231,47,0.7097983909740696
+Strawberry Cow,Matcha/Latte Collection,28,182.4,False,False,Strawberry Cow,Matcha/Latte Collection,6.514285714285714,48,0.7167583210084573
+Okinawa Milk Tea,Milk Tea,31,179.03,False,False,Okinawa Milk Tea,Milk Tea,5.775161290322581,49,0.7235896602302577
+Iced Chocolate Christmas Special,Christmas Specials,27,169.25,False,False,Iced Chocolate Christmas Special,Christmas Specials,6.268518518518518,50,0.7300478189929774
+Taro Brulee,Christmas Specials,21,159.45,False,False,Taro Brulee,Christmas Specials,7.5928571428571425,51,0.7361320341463936
+Princess Peach BPT (Peach Green Tea),Butterfly Tea,24,157.5,False,False,Princess Peach BPT (Peach Green Tea),Butterfly Tea,6.5625,52,0.7421418421530604
+Avocado Smoothie,Real Fruit Smoothies,23,155.44,False,False,Avocado Smoothie,Real Fruit Smoothies,6.758260869565217,53,0.7480730456867513
+Honeydew Milk Tea,Milk Tea,27,150.75,False,False,Honeydew Milk Tea,Milk Tea,5.583333333333333,54,0.7538252904931324
+Princess Rose BPT (Rose Juice),Butterfly Tea,25,148.53,False,False,Princess Rose BPT (Rose Juice),Butterfly Tea,5.9412,55,0.7594928256247528
+(ROSE) Princess Taro Milk Tea,Milk Tea,25,147.0,False,False,(ROSE) Princess Taro Milk Tea,Milk Tea,5.88,56,0.7651019797643086
+Iced Green Tea,Premium Tea,32,145.43,False,False,Iced Green Tea,Premium Tea,4.5446875,57,0.7706512266113534
+Tiramisu Milk Tea,*DISCONTINUED* *Fall Special* Tiramisu Series,21,143.58,False,False,Tiramisu Milk Tea,Tiramisu Series,6.837142857142858,58,0.7761298820627646
+Sunset Passion BPT (Passion Fruit Green Tea),Butterfly Tea,21,139.77,False,False,Sunset Passion BPT (Passion Fruit Green Tea),Butterfly Tea,6.655714285714287,59,0.7814631573966809
+Honey Milk Tea,Milk Tea,23,139.58,False,False,Honey Milk Tea,Milk Tea,6.068695652173914,60,0.7867891828034782
+Honeydew Smoothie,Real Fruit Smoothies,20,138.64,False,False,Honeydew Smoothie,Real Fruit Smoothies,6.9319999999999995,61,0.7920793401497912
+Iced Taro Christmas Special,Christmas Specials,20,134.65,False,False,Iced Taro Christmas Special,Christmas Specials,6.7325,62,0.797217249026602
+*POPULAR* Dalgona Coffee,Coffee Series,20,129.42,True,False,Dalgona Coffee,Coffee Series,6.470999999999999,63,0.8021555941200802
+Thai Tea Matcha Latte,Matcha/Latte Collection,22,126.04,False,False,Thai Tea Matcha Latte,Matcha/Latte Collection,5.7290909090909095,64,0.8069649668258598
+Lychee Green/Black Tea,Premium Tea,19,123.68,False,False,Lychee Green/Black Tea,Premium Tea,6.509473684210526,65,0.8116842878053174
+Strawberry Guava Green Tea,Guava Series,17,121.6,False,False,Strawberry Guava Green Tea,Guava Series,7.152941176470588,66,0.8163242411615758
+Thai Tea Smoothie,Real Fruit Smoothies,20,119.96,False,False,Thai Tea Smoothie,Real Fruit Smoothies,5.997999999999999,67,0.8209016161995424
+Sunset Passion BPT,Fruit Series,17,119.92,False,False,Sunset Passion BPT,Fruit Series,7.054117647058824,68,0.825477464937063
+Honey Green/Black Tea,Premium Tea,20,117.56,False,False,Honey Green/Black Tea,Premium Tea,5.878,69,0.8299632619482614
+Rose Milk Tea,Milk Tea,20,113.33,False,False,Rose Milk Tea,Milk Tea,5.6665,70,0.8342876526872809
+Okinawa Brown Sugar Smoothie,Real Fruit Smoothies,16,105.51,False,False,Okinawa Brown Sugar Smoothie,Real Fruit Smoothies,6.594375,71,0.8383136516890803
+Hot Taro Christmas Special,Christmas Specials,19,104.75,False,False,Hot Taro Christmas Special,Christmas Specials,5.5131578947368425,72,0.8423106509824033
+Chocolate Brulee,Christmas Specials,14,103.0,False,False,Chocolate Brulee,Christmas Specials,7.357142857142857,73,0.8462408746312077
+Brown Sugar Green Milk Tea w. Cream,Brown Sugar Series,14,100.25,False,False,Brown Sugar Green Milk Tea w. Cream,Brown Sugar Series,7.160714285714286,74,0.8500661651243401
+Strawberry Slushy,Slushy,16,94.43,False,False,Strawberry Slushy,Slushy,5.901875,75,0.8536693789025595
+Lychee Milk Tea,Milk Tea,16,92.75,False,False,Lychee Milk Tea,Milk Tea,5.796875,76,0.8572084880620411
+Mixed Slushy,Slushy,16,92.67,False,False,Mixed Slushy,Slushy,5.791875,77,0.8607445446206303
+Matcha Smoothie,Real Fruit Smoothies,13,89.57,False,False,Matcha Smoothie,Real Fruit Smoothies,6.89,78,0.864162312894644
+Advent Drink - Mystery Drink Everyday,Christmas Specials,16,88.75,False,False,Advent Drink - Mystery Drink Everyday,Christmas Specials,5.546875,79,0.8675487920095118
+Coffee Smoothie,Real Fruit Smoothies,13,88.63,False,False,Coffee Smoothie,Real Fruit Smoothies,6.817692307692307,80,0.8709306922230413
+Coconut Smoothie,Real Fruit Smoothies,14,86.8,False,False,Coconut Smoothie,Real Fruit Smoothies,6.2,81,0.8742427641911599
+HOT Chocolate Milk,*HOT TEMPERATURE* - Drinks,16,86.75,False,False,HOT Chocolate Milk,- Drinks,5.421875,82,0.8775529282837209
+Dalgona Tiramisu Coffee,*Fall Special* Tiramisu Series,14,84.75,False,False,Dalgona Tiramisu Coffee,Tiramisu Series,6.053571428571429,83,0.8807867773539749
+Thai Tea Brulee,Christmas Specials,11,84.25,False,False,Thai Tea Brulee,Christmas Specials,7.659090909090909,84,0.8840015476686524
+Pineapple Mixed Fruit Juice,Fruit Series,14,83.0,False,False,Pineapple Mixed Fruit Juice,Fruit Series,5.928571428571429,85,0.8871686210943879
+*POPULAR* (ROSE) Princess Taro Milk,Milk (Dairy Free),13,82.72,True,False,(ROSE) Princess Taro Milk,Milk (Dairy Free),6.363076923076923,86,0.8903250104170005
+Strawberry Banana Brulee,Christmas Specials,11,79.5,False,False,Strawberry Banana Brulee,Christmas Specials,7.2272727272727275,87,0.893358532553699
+*PROMO* Matcha Green Milk Tea Coffee,*PROMO* Matcha/Latte Collection,12,78.97,False,False,Matcha Green Milk Tea Coffee,Matcha/Latte Collection,6.5808333333333335,88,0.8963718312094863
+Coconut Milk Tea,Milk Tea,12,77.65,False,False,Coconut Milk Tea,Milk Tea,6.470833333333334,89,0.899334761950551
+Honeydew Green/Black Tea,Premium Tea,12,75.75,False,False,Honeydew Green/Black Tea,Premium Tea,6.3125,90,0.9022251934204241
+Mango Green/Black Tea,Premium Tea,12,75.16,False,False,Mango Green/Black Tea,Premium Tea,6.263333333333333,91,0.9050931119587167
+Chocolate Milk Tea,Milk Tea,14,75.12,False,False,Chocolate Milk Tea,Milk Tea,5.365714285714286,92,0.9079595041965631
+Chocolate Strawberry Smoothie,Real Fruit Smoothies,11,71.55,False,False,Chocolate Strawberry Smoothie,Real Fruit Smoothies,6.504545454545454,93,0.9106896741195918
+Iced Black Tea,Premium Tea,15,70.2,False,False,Iced Black Tea,Premium Tea,4.680000000000001,94,0.9133683314025633
+Coconut Coffee,Coffee Series,11,69.19,False,False,Coconut Coffee,Coffee Series,6.29,95,0.9160084495992699
+Coffee Brulee,Christmas Specials,9,67.5,False,False,Coffee Brulee,Christmas Specials,7.5,96,0.918584081602127
+HOT Matcha Green Milk Tea,PROMO *HOT TEMPERATURE* - Drinks,12,66.0,False,False,HOT Matcha Green Milk Tea,PROMO  - Drinks,5.5,97,0.9211024773382541
+Mango Milk,Milk (Dairy Free),10,65.64,False,False,Mango Milk,Milk (Dairy Free),6.564,98,0.923607136370366
+Pumpkin Thai,*DISCONTINUED* *Fall Special* Tiramisu Series,10,64.25,False,False,Pumpkin Thai,Tiramisu Series,6.425,99,0.9260587564619744
+Pineapple Guava Green Tea,Guava Series,9,61.19,False,False,Pineapple Guava Green Tea,Guava Series,6.7988888888888885,100,0.9283936145694535
+Guava Summer,Guava Series,9,59.84,False,False,Guava Summer,Guava Series,6.648888888888889,101,0.9306769600368754
+HOT Brown Sugar Okinawa,*HOT TEMPERATURE* - Drinks,10,59.04,False,False,HOT Brown Sugar Okinawa,- Drinks,5.904,102,0.9329297794953745
+HOT Taro Milk,*HOT TEMPERATURE* - Drinks,11,57.25,False,False,HOT Taro Milk,- Drinks,5.204545454545454,103,0.935114297008909
+Watermelon Slushy,Slushy,10,56.81,False,False,Watermelon Slushy,Slushy,5.681,104,0.937282025217536
+Honeydew Milk,Milk (Dairy Free),9,56.78,False,False,Honeydew Milk,Milk (Dairy Free),6.308888888888889,105,0.9394486087008282
+Lychee Slushy,Slushy,9,56.41,False,False,Lychee Slushy,Slushy,6.267777777777777,106,0.9416010739049938
+*POPULAR* Guava Paradise - Guava Mango GT,Guava Series,8,54.94,True,False,Guava Paradise - Guava Mango GT,Guava Series,6.8675,107,0.9436974475677639
+HOT Brown Sugar Matcha,*HOT TEMPERATURE* - Drinks,9,54.1,False,False,HOT Brown Sugar Matcha,- Drinks,6.011111111111111,108,0.9457617689211649
+Dragon Fruit Smoothie,Real Fruit Smoothies,8,53.78,False,False,Dragon Fruit Smoothie,Real Fruit Smoothies,6.7225,109,0.9478138798709969
+HOT Honey Lemon Green Tea,*HOT TEMPERATURE* - Drinks,10,51.5,False,False,HOT Honey Lemon Green Tea,- Drinks,5.15,110,0.949778991695399
+HOT Coffee Milk Tea,*HOT TEMPERATURE* - Drinks,9,49.5,False,False,HOT Coffee Milk Tea,- Drinks,5.5,111,0.9516677884974943
+Coffee Smoothie,Coffee Series,7,48.82,False,False,Coffee Smoothie,Coffee Series,6.974285714285714,112,0.9535306381920053
+Mocha Frappe Smoothie,Real Fruit Smoothies,7,45.05,False,False,Mocha Frappe Smoothie,Real Fruit Smoothies,6.435714285714285,113,0.9552496340694678
+Strawberry Green/Black Tea,Premium Tea,7,45.03,False,False,Strawberry Green/Black Tea,Premium Tea,6.432857142857143,114,0.9569678667967072
+Coffee Milk Tea,Milk Tea,8,44.25,False,False,Coffee Milk Tea,Milk Tea,5.53125,115,0.958656336665247
+Pina Colada Smoothie,Real Fruit Smoothies,7,44.14,False,False,Pina Colada Smoothie,Real Fruit Smoothies,6.305714285714286,116,0.9603406092075598
+Strawberry Milk,Milk (Dairy Free),7,44.07,False,False,Strawberry Milk,Milk (Dairy Free),6.295714285714285,117,0.9620222107240919
+Belle BPT (Pineapple Juice),Butterfly Tea,7,43.53,False,False,Belle BPT (Pineapple Juice),Butterfly Tea,6.218571428571429,118,0.9636832071846011
+Lemonade Butterfly,Butterfly Tea,7,43.5,False,False,Lemonade Butterfly,Butterfly Tea,6.214285714285714,119,0.9653430589197758
+HOT Brown Sugar Milk Tea,*HOT TEMPERATURE* - Drinks,8,43.04,False,False,HOT Brown Sugar Milk Tea,- Drinks,5.38,120,0.9669853581998199
+Passion Fruit Slushy,Slushy,7,41.97,False,False,Passion Fruit Slushy,Slushy,5.9957142857142856,121,0.9685868289429298
+HOT Honey Milk Tea,*HOT TEMPERATURE* - Drinks,8,40.5,False,False,HOT Honey Milk Tea,- Drinks,5.0625,122,0.9701322081446442
+HOT Taro Black Milk Tea,*HOT TEMPERATURE* - Drinks,7,39.5,False,False,HOT Taro Black Milk Tea,- Drinks,5.642857142857143,123,0.971639429835205
+Okinawa Brown Sugar Brulee,Christmas Specials,5,39.25,False,False,Okinawa Brown Sugar Brulee,Christmas Specials,7.85,124,0.9731371121479776
+Chocolate Smoothie,Real Fruit Smoothies,6,39.05,False,False,Chocolate Smoothie,Real Fruit Smoothies,6.508333333333333,125,0.9746271629585195
+*NEW PROMO* Pineapple Summer,Fruit Series,7,39.0,False,False,Pineapple Summer,Fruit Series,5.571428571428571,126,0.9761153058935036
+HOT Teazentea Coffee,*HOT TEMPERATURE* - Drinks,7,39.0,False,False,HOT Teazentea Coffee,- Drinks,5.571428571428571,127,0.9776034488284878
+Cheese Foam Green/Black Tea,Premium Tea,6,36.91,False,False,Cheese Foam Green/Black Tea,Premium Tea,6.151666666666666,128,0.9790118425651613
+HOT Coconut Coffee,*HOT TEMPERATURE* - Drinks,6,35.25,False,False,HOT Coconut Coffee,- Drinks,5.875,129,0.98035689483332
+Egg Tart Sponge Cake (1 piece),SNACKS & ICE CREAM,17,35.2,False,False,Egg Tart Sponge Cake (1 piece),SNACKS & ICE CREAM,2.070588235294118,130,0.9817000392259212
+Taromisu,*DISCONTINUED* *Fall Special* Tiramisu Series,6,34.54,False,False,Taromisu,Tiramisu Series,5.756666666666667,131,0.9830179996611611
+Peach Slushy,Slushy,5,29.45,False,False,Peach Slushy,Slushy,5.89,132,0.9841417383646299
+Guava Milk,Guava Series,5,28.53,False,False,Guava Milk,Guava Series,5.706,133,0.9852303721578375
+Pineapple Smoothie,Real Fruit Smoothies,4,27.98,False,False,Pineapple Smoothie,Real Fruit Smoothies,6.995,134,0.9862980193199108
+Night Prince BPT (Classic Green Tea),Butterfly Tea,4,25.75,False,False,Night Prince BPT (Classic Green Tea),Butterfly Tea,6.4375,135,0.9872805752321119
+Oreo Matcha Latte,*PROMO* Matcha/Latte Collection,4,25.75,False,False,Oreo Matcha Latte,Matcha/Latte Collection,6.4375,136,0.988263131144313
+Coffee Milk Tea,Coffee Series,4,24.25,False,False,Coffee Milk Tea,Coffee Series,6.0625,137,0.9891884507897839
+HOT Green Milk Tea,*HOT TEMPERATURE* - Drinks,4,23.5,False,False,HOT Green Milk Tea,- Drinks,5.875,138,0.9900851523018898
+TeaZenTea Coffee,Coffee Series,4,23.36,False,False,TeaZenTea Coffee,Coffee Series,5.84,139,0.9909765117624342
+HOT Black Milk Tea,*HOT TEMPERATURE* - Drinks,4,23.25,False,False,HOT Black Milk Tea,- Drinks,5.8125,140,0.9918636738967517
+HOT Chocolate Milk Tea,*HOT TEMPERATURE* - Drinks,4,22.75,False,False,HOT Chocolate Milk Tea,- Drinks,5.6875,141,0.9927317572754923
+Honeydew Slushy,Slushy,4,22.21,False,False,Honeydew Slushy,Slushy,5.5525,142,0.9935792355982103
+HOT Black Tea,*HOT TEMPERATURE* - Drinks,4,21.22,False,False,HOT Black Tea,- Drinks,5.305,143,0.9943889379848864
+HOT Honey Green Tea,*HOT TEMPERATURE* - Drinks,4,20.0,False,False,HOT Honey Green Tea,- Drinks,5.0,144,0.9951520882079551
+HOT Brown Sugar Milk,*HOT TEMPERATURE* - Drinks,3,18.08,False,False,HOT Brown Sugar Milk,- Drinks,6.026666666666666,145,0.9958419760096094
+HOT Brown Sugar Green Milk Tea,PROMO *HOT TEMPERATURE* - Drinks,3,18.0,False,False,HOT Brown Sugar Green Milk Tea,PROMO  - Drinks,6.0,146,0.9965288112103713
+Okinawa Matcha Latte,*PROMO* Matcha/Latte Collection,3,18.0,False,False,Okinawa Matcha Latte,Matcha/Latte Collection,6.0,147,0.9972156464111332
+HOT Green Tea,*HOT TEMPERATURE* - Drinks,3,14.97,False,False,HOT Green Tea,- Drinks,4.99,148,0.9977868643531003
+HOT Matcha Green Milk Tea Coffee,PROMO *HOT TEMPERATURE* - Drinks,2,11.75,False,False,HOT Matcha Green Milk Tea Coffee,PROMO  - Drinks,5.875,149,0.9982352151091533
+Dragon Fruit Slushy,Slushy,2,10.73,False,False,Dragon Fruit Slushy,Slushy,5.365,150,0.9986446452038297
+Coconut Brulee,Christmas Specials,1,7.0,False,False,Coconut Brulee,Christmas Specials,7.0,151,0.9989117477819037
+Saigon Drip Coffee (Iced Black Coffee),Coffee Series,1,6.29,False,False,Saigon Drip Coffee (Iced Black Coffee),Coffee Series,6.29,152,0.9991517585270588
+Rose Green/Black Tea,Premium Tea,1,6.25,False,False,Rose Green/Black Tea,Premium Tea,6.25,153,0.9993902429717679
+Pineapple Slushy,Slushy,1,5.74,False,False,Pineapple Slushy,Slushy,5.74,154,0.9996092670857887
+Freedom (Strawberry Latte w/BPT),Matcha/Latte Collection,1,5.25,False,False,Freedom (Strawberry Latte w/BPT),Matcha/Latte Collection,5.25,155,0.9998095940193442
+Rose Slushy,Slushy,1,4.99,False,False,Rose Slushy,Slushy,4.99,156,1.0
